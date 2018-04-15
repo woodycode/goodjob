@@ -1,0 +1,7 @@
+/** MIT License cpaper.xie@outlook.com */
+.open-app-banner{background:#f3f3f3;border-bottom:0.5px solid #c5c5c5;font-family:Helvetica,sans,sans-serif;height:84px;margin:-8pt -8pt 0 -8pt;position:relative;}.open-app-banner-show{display:block;}.open-app-banner-hide{display:none;}.open-app-banner-info{position:absolute;top:10px;left:104px;display:-webkit-box;display:-ms-flexbox;display:flex;overflow-y:hidden;width:60%;height:64px;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}.open-app-banner-close{position:absolute;top:calc(50% - 6px);left:9px;display:block;margin:0;width:12px;height:12px;border:0;text-align:center;text-decoration:none;color:#777;}.open-app-banner-button{position:absolute;top:32px;right:10px;padding:0 5px;color:#1474fc;font-size:16px;text-align:center;text-decoration:none;}.open-app-banner-icon{position:absolute;top:10px;left:30px;width:64px;height:64px;border-radius:15px;background-size:64px 64px;}.open-app-banner-title{font-size:14px;}.open-app-banner-price,.open-app-banner-author{font-size:12px;}
+
+
+
+
+
